@@ -21,6 +21,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
  * This class contains implementation of all basic configuration annotation
  * @author CHETNA K
  * this are the changes check 1233...
+ * chnages done by chtena 
  */
 public class BaseClass {
 	public WebDriver driver;
