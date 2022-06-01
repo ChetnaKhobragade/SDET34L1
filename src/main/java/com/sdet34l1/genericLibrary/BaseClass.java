@@ -19,7 +19,10 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
  * This class contains implementation of all basic configuration annotation
- * @author CHETNA K
+@author CHETNA K and priya kumari
+ *
+
+ * @author CHETNA K and yo yo honey singh
  * this are the changes check 1233...
  * chnages done by chtena 
  */
